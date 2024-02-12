@@ -1,2 +1,2 @@
-print("Hola mundo") //agregado por Saul Padills
-print("Commit") //participación de Angel Hernandez
+console.log("Hola mundo") //agregado por Saul Padilla
+console.log("Commit") //participación de Angel Hernandez
